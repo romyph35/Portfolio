@@ -170,14 +170,3 @@ premium-portfolio/
 - Focus states for interactive elements
 - Color contrast compliance
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🙏 Credits
-
-Design inspired by modern creative agency websites and the Oryx AI Agency reference design.
-
----
-
-Built with ❤️ by Alex Rivera
