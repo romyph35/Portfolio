@@ -45,7 +45,7 @@ const Navigation = () => {
             className="text-2xl font-bold"
             whileHover={{ scale: 1.05 }}
           >
-            <span className="text-white">ALEX</span>
+            <span className="text-white">ROMS</span>
             <span className="text-accent-orange">.</span>
           </motion.a>
 
