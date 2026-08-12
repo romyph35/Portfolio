@@ -1,10 +1,10 @@
 export const personalInfo = {
-  name: "Alex Rivera",
+  name: "Romy Pablo",
   role: "Creative Developer & Designer",
   tagline: "BUILDING DIGITAL EXPERIENCES THAT MATTER.",
   description: "I'm a creative developer focused on creating thoughtful digital products, immersive interfaces, and high-performance web experiences.",
-  email: "hello@alexrivera.com",
-  location: "San Francisco, CA",
+  email: "romspablo@gmail.com",
+  location: "Philippines",
   availability: "Available for Projects",
   
   social: {
