@@ -9,7 +9,7 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: 'Alex Rivera - Creative Developer & Designer',
+  title: 'Romy Pablo - Creative Developer & Designer',
   description: 'Portfolio of Alex Rivera - Creative Developer focused on building thoughtful digital products and immersive web experiences.',
   keywords: ['web developer', 'designer', 'portfolio', 'creative developer', 'UI/UX'],
 }
